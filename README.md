@@ -193,11 +193,13 @@ MX_GPIO_Init();
 
 ## Output screen shots of proteus  :
  
-![image](https://github.com/user-attachments/assets/166d7e0a-51ad-4b56-b8e2-4547805f6e70)
+![pmc-2 img](https://github.com/user-attachments/assets/02622016-1087-411e-a788-b2279f37c8ee)
+
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![image](https://github.com/user-attachments/assets/8fb1675b-e586-470d-8bc4-67e966ddee06)
+![pmc-3 img ](https://github.com/user-attachments/assets/c5f7fa91-e99f-4770-832d-47c40f865a56)
+
  
  
 ## Result :
