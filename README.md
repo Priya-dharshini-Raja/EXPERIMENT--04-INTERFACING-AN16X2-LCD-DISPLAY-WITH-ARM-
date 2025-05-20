@@ -173,7 +173,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
-```
+
 MX_GPIO_Init();
 
   Lcd_PortType ports[] = {GPIOA,GPIOA,GPIOA,GPIOA};
@@ -187,21 +187,18 @@ MX_GPIO_Init();
   	  Lcd_cursor(&lcd ,1,0);
   	  Lcd_string(&lcd, "HEMA LOKITHA");
 
-```
+
 
 
 
 ## Output screen shots of proteus  :
- 
-![pmc-2 img](https://github.com/user-attachments/assets/02622016-1087-411e-a788-b2279f37c8ee)
+ ![WhatsApp Image 2025-04-28 at 13 53 13_1f94c4d3](https://github.com/user-attachments/assets/33c8c736-b874-4f69-bdda-6b3e5c7c0523)
 
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![pmc-3 img ](https://github.com/user-attachments/assets/c5f7fa91-e99f-4770-832d-47c40f865a56)
+ ![WhatsApp Image 2025-04-28 at 13 58 29_b19b5a5f](https://github.com/user-attachments/assets/222caf87-909f-435a-b74c-ed4d8f1a79db)
 
- 
  
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
-
