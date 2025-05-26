@@ -173,7 +173,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
 MX_GPIO_Init();
 
   Lcd_PortType ports[] = {GPIOA,GPIOA,GPIOA,GPIOA};
@@ -185,14 +185,15 @@ MX_GPIO_Init();
   	  Lcd_cursor(&lcd, 0,0);
   	  Lcd_string(&lcd, "DEPT CSE(IOT)");
   	  Lcd_cursor(&lcd ,1,0);
-  	  Lcd_string(&lcd, "HEMA LOKITHA");
+  	  Lcd_string(&lcd, "PRIYADHARSHINI");
 
 
 
-
+```
 
 ## Output screen shots of proteus  :
- ![WhatsApp Image 2025-04-28 at 13 53 13_1f94c4d3](https://github.com/user-attachments/assets/33c8c736-b874-4f69-bdda-6b3e5c7c0523)
+ ![WhatsApp Image 2025-05-26 at 13 12 46_14e818ea](https://github.com/user-attachments/assets/e035efb5-3408-4144-be4e-0ded713ff487)
+
 
 
 
