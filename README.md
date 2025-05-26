@@ -183,7 +183,7 @@ MX_GPIO_Init();
   	  lcd = Lcd_create(ports,pins,GPIOB,GPIO_PIN_0,
      GPIOB,GPIO_PIN_1,LCD_4_BIT_MODE);
   	  Lcd_cursor(&lcd, 0,0);
-  	  Lcd_string(&lcd, "DEPT CSE(IOT)");
+  	  Lcd_string(&lcd, "DEPT AIDS");
   	  Lcd_cursor(&lcd ,1,0);
   	  Lcd_string(&lcd, "PRIYADHARSHINI");
 
